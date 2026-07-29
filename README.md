@@ -48,8 +48,8 @@ All SDK exceptions inherit from `RunApi\Core\Errors\RunApiException`, including 
 ## Links
 
 - Model page: https://runapi.ai/models/topaz
-- SDK docs: https://runapi.ai/docs#sdk-topaz
-- Product docs: https://runapi.ai/docs#topaz
+- SDK docs: https://runapi.ai/docs/resources/sdks
+- Product docs: https://runapi.ai/docs/api/topaz/upscale-image
 - Pricing and rate limits: https://runapi.ai/models/topaz/upscale-image
 - Full catalog: https://runapi.ai/models
 - GitHub repository: https://github.com/runapi-ai/topaz-php

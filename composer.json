@@ -33,7 +33,7 @@
   "homepage": "https://runapi.ai/models/topaz",
   "support": {
     "source": "https://github.com/runapi-ai/topaz-php",
-    "docs": "https://runapi.ai/docs#sdk-topaz",
+    "docs": "https://runapi.ai/docs/resources/sdks",
     "issues": "https://github.com/runapi-ai/topaz-php/issues"
   },
   "keywords": [
