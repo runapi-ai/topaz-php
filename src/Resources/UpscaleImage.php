@@ -13,7 +13,7 @@ use RunApi\Topaz\Models\ImageTaskResponse;
 use RunApi\Topaz\Types;
 
 /**
- * Increases image resolution using AI enhancement. Supports upscale factors of 1x, 2x, 4x, and 8x.
+ * Increases image resolution using AI enhancement. Supports upscale factors of 1x, 2x, and 4x.
  */
 readonly class UpscaleImage extends TypedConfiguredResource
 {

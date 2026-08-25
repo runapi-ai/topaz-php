@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.1.1](https://github.com/runapi-ai/topaz-php/releases/tag/v0.1.1) - 2026-08-25
+
+### Fixed
+- Restrict image upscale requests to the supported 1x, 2x, and 4x factors.
+
+
 ## [v0.1.0](https://github.com/runapi-ai/topaz-php/releases/tag/v0.1.0) - 2026-06-25
 
 ### Added
